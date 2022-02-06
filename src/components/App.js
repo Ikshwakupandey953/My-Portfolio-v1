@@ -21,7 +21,7 @@ class App extends Component {
         <Fade bottom>
           <h4 className="intro"> <span className="animate-hand" role="img" aria-label="hand-wave">👋</span> Hi, my name is </h4>
         <Fade bottom cascade>
-          <h2 className="name">Eshaan Khurana.</h2>
+          <h2 className="name">Ikshwaku Pandey.</h2>
         </Fade>
         <h2 className="aftername"> I Lead Products to Success.</h2>
         <h4 className="desc">I'm a Product Manager based in India specializing in Managing products, Leading people and getting <b>Work Done!</b>
